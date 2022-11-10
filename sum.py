@@ -1,3 +1,4 @@
 # La suma de dos integers, el resultado por terminal
-suma = 3 + 7
-print(sum) 
+def sum(num1, num2):
+    return num1 + num2
+print(sum(3,7)) 
