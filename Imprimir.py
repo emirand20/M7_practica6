@@ -8,7 +8,7 @@ print("Ultimo elemento : "+str(areas[-1]))
 # Imprimir el area de la terraza.
 print("El area de la "+str(areas[4])+" es "+str(areas[5]))
 # Imprimir del primer al tercer elemento.
-print("Del primer al tercer elemento : "+ str(areas[0:2]))
+print("Del primer al tercer elemento : "+str(areas[0:2]))
 # Imprimir del tercer elemento hasta el ultimo.
 print("Del tercer al ultimo elemento : "+str(areas[2:]))
 # Imprimir el total del area de las dos habitaciones.
